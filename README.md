@@ -116,9 +116,9 @@ The Power BI visualizations support the patterns identified through SQL analysis
 - A smaller number of plans appear as potential outliers with unusually high expenses.
 
 These observations provide opportunities for additional analysis rather than definitive conclusions about the causes of high expenses.
-<img width="815" height="517" alt="image" src="https://github.com/user-attachments/assets/2ce1a32b-b38c-4271-a2b7-2836b886e1d8" />
-<img width="1325" height="747" alt="image" src="https://github.com/user-attachments/assets/00d645a6-027f-4958-ad89-3c9d9ff7b108" />
-<img width="1337" height="756" alt="image" src="https://github.com/user-attachments/assets/d1a3f792-43f2-40d2-8c4b-77793205c7ef" />
+<img width="615" height="400" alt="image" src="https://github.com/user-attachments/assets/2ce1a32b-b38c-4271-a2b7-2836b886e1d8" />
+<img width="615" height="400" alt="image" src="https://github.com/user-attachments/assets/00d645a6-027f-4958-ad89-3c9d9ff7b108" />
+<img width="615" height="400" alt="image" src="https://github.com/user-attachments/assets/d1a3f792-43f2-40d2-8c4b-77793205c7ef" />
 
 
 
