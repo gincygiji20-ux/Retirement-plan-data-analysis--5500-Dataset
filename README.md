@@ -154,4 +154,4 @@ Based on the findings, the following actions are recommended:
 
 ---
 
-**Disclaimer:** This project is for educational and portfolio purposes. The analysis and conclusions are my own and do not represent official findings or endorsements by the U.S. Department of Labor.
+
